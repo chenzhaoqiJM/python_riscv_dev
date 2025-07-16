@@ -1,0 +1,17 @@
+PyQt5
+gpiozero
+lgpio
+onnxruntime
+onnxruntime-genai
+opencv-contrib-python
+opencv-contrib-python-headless
+opencv-python
+opencv-python-headless
+paddlepaddle
+spacemit-ai-tool
+spacemit-ort
+torch
+torchaudio
+torchvision
+xquant
+stag-python
